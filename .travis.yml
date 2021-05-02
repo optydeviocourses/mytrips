@@ -16,7 +16,7 @@ cache: yarn
 
 install:
   - yarn install
-  - yarn
+#  - yarn
 
 # before_script
 # script:
