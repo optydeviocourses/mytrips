@@ -20,7 +20,7 @@ install:
 # before_script
 script:
   - yarn test
-  - yarn build
+#  - yarn build
 
 # after_sucess
 # after_failure
